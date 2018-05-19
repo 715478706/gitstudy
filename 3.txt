@@ -11,5 +11,10 @@ fix6
 dev
 =======
 master
+<<<<<<< HEAD
 master
 dev
+=======
+>>>>>>> master
+devÔÙÀ´
+>>>>>>> dev
