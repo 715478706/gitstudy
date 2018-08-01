@@ -4,18 +4,4 @@ If you wish to set tracking information for this branch you can do so with:
 
 nihaoxinshijie
 
-<<<<<<< HEAD
-shishipullsdadassda有文件fdsdffds再来的
-=======
-shishipullyouwenjian douyoudsadsa   花说破
-
-shishipullsdadassda有文件
->>>>>>> 434c1b1b4a34ab668132b0760376eae296a138de
-
-fsddsbak
-zai
-<<<<<<< HEAD
-7898
-=======
-4556
->>>>>>> 561fc0a97a21de2d7c18a0ae84dc3f5a9b026a0b
+shanchulezhexie chongtu
